@@ -8,4 +8,4 @@ crew, trivia, ratings, fan, and critical reviews.
 
 
 ## Analysis 
-This analysis explores gender diversity, genre growth, and gender prefences for different genders. 
+This analysis explores genre diversity,genre prefences for different genders, age groups, and occupations. 
